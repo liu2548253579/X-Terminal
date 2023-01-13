@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "name": "ESP32_TFT1.44",
+            "path": ".."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "xstring": "cpp",
+            "functional": "cpp"
+        }
+    }
+}

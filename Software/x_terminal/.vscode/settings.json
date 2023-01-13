@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "lvgl.h": "c",
+        "adafruit_pcf8574.h": "c",
+        "basic_hardware.h": "c",
+        "arduino.h": "c",
+        "array": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "unordered_set": "c",
+        "vector": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "lv_indev.h": "c",
+        "tft_espi.h": "c"
+    }
+}
